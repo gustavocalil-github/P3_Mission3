@@ -1,4 +1,4 @@
-![Capa do projeto com logo da Estácio](./.github/logo_m3.svg)
+![Capa do projeto com logo da Estácio](./logo_m3.svg)
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Para a construção e execução do projeto foram utilizadas as seguintes tecnol
 
 ## 📃 Licença
 
-Este repositório está licensiado sob a [Licença MIT](./LICENSE).
+Este repositório está licensiado sob a [Licença MIT](./LICENSE.txt).
 
 <div align=center>
 
